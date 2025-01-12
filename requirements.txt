@@ -104,7 +104,6 @@ PySimpleGUI==5.0.7
 python-dateutil==2.9.0.post0
 python-multipart==0.0.12
 pytz==2024.2
-pywin32==308
 PyYAML==3.13
 pyzmq==26.2.0
 rasterio==1.4.3
